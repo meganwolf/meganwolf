@@ -1,4 +1,4 @@
-### Hi there 👋
+### [✨✨ My Resume ✨✨](https://raw.githubusercontent.com/meganwolf/resume/master/mwolf_resume.pdf)
 
 <!--
 **meganwolf/meganwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
